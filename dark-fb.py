@@ -20,7 +20,7 @@ if sandi == 'TITID' and user == 'MR REY':
     print 'Berhasil Login'
     sys.exit
 else:
-    print 'GAGAL CARI SI MR REY'
+    print 'GAGAL!HUBUNGI SAYA reyspeed01@gmail.com'
     wa()
     restart()
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib
